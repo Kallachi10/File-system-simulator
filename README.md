@@ -8,4 +8,5 @@ This is a file system simulator implemented in C. <br>
 - traverse back and forth b/w directories
 <br>
 <br>
+
 ![Screenshot](./img/img.png)
